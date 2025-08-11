@@ -110,9 +110,4 @@ From historical `order_data.csv`:
 
 ---
 
-## 📦 Installation
-### **1. Clone Repository**
-```bash
-git clone <repo-url>
-cd wings-recommender
 
